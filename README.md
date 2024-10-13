@@ -23,7 +23,7 @@
 ___
 
 > [!WARNING]
->⚠️ AVISO: Abaixo coloquei apenas os problemas propostos mas se quiser ter acesso aos códigos clique <a href="https://github.com/pedrohenrique3dk/Case_SQL_MySQL">AQUI!</a>
+>⚠️ AVISO: Abaixo coloquei apenas os problemas propostos mas se quiser ter acesso aos códigos clique <a href="https://github.com/johnerik63/Case_SQL_MySQL">AQUI!</a>
 
  
 ___
@@ -73,10 +73,12 @@ ___
 ___
 
 
+</div>
+
+
 ## Contatos 📞
 
  
- [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
   
 
-</div>
